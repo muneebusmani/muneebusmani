@@ -101,11 +101,11 @@
 
 ---
 
-- 🔭 I’m a **Full-Stack Developer** with 3+ years experience
-- 🌱 Currently leveling up on **Docker, CI/CD, GitHub Actions, and DevOps workflows**
-- 💻 Passionate about building **scalable, maintainable, and user-friendly web apps**
+- 🔭 Full-Stack Developer with 3+ years of experience
+- 💻 Building scalable, maintainable, and user-friendly web applications
+- 🛠️ Experienced with Docker, CI/CD, GitHub Actions, and DevOps workflows
 - 🏠 Connect with me on [LinkedIn](https://www.linkedin.com/in/muneebusmani/)
-- 📫 Check out my portfolio: [Portfolio](https://muneebusmani.com)
+- 📫 Explore my work: [Portfolio](https://muneebusmani.com)
 
 ---
 
