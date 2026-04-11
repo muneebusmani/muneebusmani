@@ -101,7 +101,7 @@
 
 ---
 
-- 🔭 Full-Stack Developer with 3+ years of experience
+- 🔭 Full-Stack Developer with 4+ years of experience
 - 💻 Building scalable, maintainable, and user-friendly web applications
 - 🛠️ Experienced with Docker, CI/CD, GitHub Actions, and DevOps workflows
 - 🏠 Connect with me on [LinkedIn](https://www.linkedin.com/in/muneebusmani/)
