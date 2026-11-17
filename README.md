@@ -17,9 +17,3 @@ Full-Stack Engineer building production web applications with TypeScript, Node.j
 **Frontend:** React, Next.js (App Router), Redux Toolkit, Tailwind CSS, Material-UI  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Supabase  
 **Infrastructure:** Docker, GitHub Actions, Traefik, Nginx, Linux (Arch/NixOS)
-
-## Contact
-
-- Portfolio: [muneebusmani.com](https://muneebusmani.com)
-- LinkedIn: [in/muneebusmani](https://linkedin.com/in/muneebusmani)
-- Email: <muneebusmani8355@gmail.com>
