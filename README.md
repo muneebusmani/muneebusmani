@@ -1,187 +1,25 @@
-<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=muneebusmani&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Muneeb Usmani" /> </p> -->
+# Muneeb Usmani
 
-<!-- <h3 align="center"> -->
-<!--   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=1600&height=150&duration=4000&lines=Hello+There!+I'm+Muneeb+" /> -->
-<!-- </h3> -->
-<!---->
-<!-- <p align="center"> -->
-<!--   <img src="https://raw.githubusercontent.com/muneebusmani/muneebusmani/master/assets/latte.png" width="200" /> -->
-<!-- </p> -->
-<!---->
-<!-- <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"> -->
-<!---->
-<!-- --- -->
-<!---->
-<!-- - 🔭 I’m a **Full-Stack Developer** with 3+ years experience -->
-<!-- - 🌱 Currently leveling up on **Docker, CI/CD, GitHub Actions, and DevOps workflows** -->
-<!-- - 💻 Passionate about building **scalable, maintainable, and user-friendly web apps** -->
-<!-- - 🏠 Connect with me on [LinkedIn](https://www.linkedin.com/in/muneebusmani/) -->
-<!-- - 📫 Check out my portfolio: [Portfolio](https://muneebusmani.com) -->
-<!---->
-<!-- ## 🛠️ Tech Stack -->
-<!---->
-<!-- ### Languages -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=php,js,ts,python,bash,cs" />   -->
-<!-- </p> -->
-<!---->
-<!-- ### Frameworks & Libraries -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=express,laravel,nest,next,nodejs,react,redux" />   -->
-<!-- </p> -->
-<!---->
-<!-- ### UI & Styling -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />   -->
-<!-- </p> -->
-<!---->
-<!-- ### Databases -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite" />   -->
-<!-- </p> -->
-<!---->
-<!-- ### Tools -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,postman,vscode" />   -->
-<!-- </p> -->
-<!---->
-<!-- ### DevOps -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,heroku" />   -->
-<!-- </p> -->
-<!---->
-<!-- ### Testing & QA -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=jest,vitest" />   -->
-<!-- </p> -->
-<!---->
-<!-- ### Cloud & Deployment -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,githubactions" />   -->
-<!-- </p> -->
-<!---->
-<!-- ### Operating Systems -->
-<!---->
-<!-- <p align="left"> -->
-<!--   <img src="https://skillicons.dev/icons?i=debian,arch,ubuntu,windows" />   -->
-<!-- </p> -->
-<!---->
-<!-- ## 📊 GitHub Stats -->
-<!---->
-<!-- ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneebusmani&theme=tokyonight)   -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muneebusmani&theme=catppuccin-mocha&hide_border=true&border_radius=12&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=250)](https://git.io/streak-stats) -->
-<!-- ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muneebusmani&theme=tokyonight) -->
-<!---->
-<!-- <h3 align="center"> -->
-<!---->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thanks+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg) -->
-<!---->
-<!-- </h3> -->
+Full-Stack Engineer building production web applications with TypeScript, Node.js, React, Next.js, Laravel, and PostgreSQL.
 
-<!-- Profile Views -->
-<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=muneebusmani&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Muneeb Usmani" /> </p> -->
+**Currently:** Full Stack Engineer at Xytrix Solutions
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=1600&height=150&duration=4000&lines=Hello+There!+I'm+Muneeb+" />
-</h3>
+## Recent work
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muneebusmani/muneebusmani/master/assets/latte.png" width="200" />
-</p>
+- **EnginesMarket CRM** — Multi-tenant SaaS for automotive dealers (NestJS, Next.js, TypeORM, PostgreSQL, Socket.io, Supabase)
+- **SaleStream CRM** — Feature development on production SaaS for business brokerage firms (React, TypeScript, MongoDB, Socket.io, Zoom SDK, Outlook Graph API)
+- **DojoFlo** — Full codebase migration from PHP 5.x to 8.2 on a production martial arts school management SaaS
+- **DocuSign-style e-signature platform** — Built from scratch with Laravel REST API and React/Redux frontend
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+## Stack
 
----
+**Backend:** TypeScript, Node.js, NestJS, Express, Laravel, PHP, REST APIs, WebSockets (Socket.io), JWT  
+**Frontend:** React, Next.js (App Router), Redux Toolkit, Tailwind CSS, Material-UI  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Supabase  
+**Infrastructure:** Docker, GitHub Actions, Traefik, Nginx, Linux (Arch/NixOS)
 
-- 🔭 Full-Stack Developer with 4+ years of experience
-- 💻 Building scalable, maintainable, and user-friendly web applications
-- 🛠️ Experienced with Docker, CI/CD, GitHub Actions, and DevOps workflows
-- 🏠 Connect with me on [LinkedIn](https://www.linkedin.com/in/muneebusmani/)
-- 📫 Explore my work: [Portfolio](https://muneebusmani.com)
+## Contact
 
----
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneebusmani&theme=tokyonight"
-       style="width:39%; max-height:200px; object-fit:cover;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muneebusmani&theme=catppuccin-mocha&hide_border=true&border_radius=4.5&short_numbers=true&date_format=j%20M%5B%20Y%5D"
-       style="width:59%; max-height:200px; object-fit:cover;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muneebusmani&theme=tokyonight"
-       style="width:99%;" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,cs,css,html,js,php,python,ts" />  
-</p>
-
-### Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,laravel,nest,next,nodejs,react,redux" />  
-</p>
-
-### UI & Styling
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind" />  
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" />  
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,postman,vscode" />  
-</p>
-
-### DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,heroku" />  
-</p>
-
-### Testing & QA
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jest,vitest,mocha,pytest" />  
-</p>
-
-### Cloud & Deployment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,githubactions,netlify,vercel" />  
-</p>
-
-### Operating Systems
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows" />  
-</p>
-
----
-
-<h3 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thanks+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
-
-</h3>
+- Portfolio: [muneebusmani.com](https://muneebusmani.com)
+- LinkedIn: [in/muneebusmani](https://linkedin.com/in/muneebusmani)
+- Email: <muneebusmani8355@gmail.com>
